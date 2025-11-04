@@ -1,0 +1,4 @@
+/* Extra slot for theme overrides if needed later; current theme lives in App.css */
+:root {
+  /* Reserved custom properties can be added here */
+}
